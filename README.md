@@ -17,7 +17,7 @@
     https://github.com/shubhsharma10/breakout
 
 ## Webpage
-    http://game-engine-breakout.herokuapps.com
+    http://game-engine-breakout.herokuapp.com
 
 ## Instructions for running visual studio application
    - Pull repo from link provided above 
