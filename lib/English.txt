@@ -1,0 +1,8 @@
+Lives:
+Level:
+Score:
+You Win
+You loose
+Game over
+
+

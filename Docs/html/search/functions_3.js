@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['gameobject',['GameObject',['../class_game_object.html#a0348e3ee2e83d56eafca7a3547f432c4',1,'GameObject']]],
+  ['getcontactedge',['getContactEdge',['../class_s_d_l_graphics_program.html#a4d0f81304df3f7e47c1c91771db8d0c8',1,'SDLGraphicsProgram']]],
+  ['getcred',['getCred',['../class_main_menu.html#a15ae16550a3735eaeb8ea7ab12594c2f',1,'MainMenu']]],
+  ['getflag',['getFlag',['../class_credit.html#a73a9ad4cb35e31713bc6bd31eaa3c1c0',1,'Credit::getFlag()'],['../class_instruction.html#aeba97706ef079fb7ddfe9f16ea2fdb71',1,'Instruction::getFlag()']]],
+  ['getheight',['getHeight',['../class_l_texture.html#a277f45af3dae7e35ca846a527039e59a',1,'LTexture']]],
+  ['getinst',['getInst',['../class_main_menu.html#af146dbdca5703c5869f95dd48cae44d7',1,'MainMenu']]],
+  ['getlang',['getLang',['../class_main_menu.html#a68937c546a1f51ac06fcc8c26ca3320c',1,'MainMenu']]],
+  ['getlangchosen',['getLangChosen',['../class_main_menu.html#abfd80bf668a64e754955a3f3a1f10c2d',1,'MainMenu']]],
+  ['getmainmenu',['getMainMenu',['../class_credit.html#a0827d9c7e5a91a75965257da37708a88',1,'Credit::getMainMenu()'],['../class_instruction.html#ad7468a80dbc9689eb730e35b44205362',1,'Instruction::getMainMenu()'],['../class_main_menu.html#abdd5f9065e02c94acdbcfdfeb8ba3a1e',1,'MainMenu::getMainMenu()']]],
+  ['getquitstatus',['getQuitStatus',['../class_main_menu.html#acc4a661fd3105a1c3925c12d6f8b0631',1,'MainMenu']]],
+  ['getreflectionfrompaddle',['getReflectionFromPaddle',['../class_s_d_l_graphics_program.html#ab244193ff65b69c5290ebf23eda989f4',1,'SDLGraphicsProgram']]],
+  ['getsdlrenderer',['getSDLRenderer',['../class_s_d_l_graphics_program.html#a93f03781d3b48dcd8c9fc045735e4492',1,'SDLGraphicsProgram']]],
+  ['getsdlwindow',['getSDLWindow',['../class_s_d_l_graphics_program.html#a42e9554ec5b497551530bd5a8ca9585f',1,'SDLGraphicsProgram']]],
+  ['getselected',['getSelected',['../class_brick.html#a5c12b3b15209950749100a978a659c84',1,'Brick']]],
+  ['getstartstatus',['getStartStatus',['../class_main_menu.html#ac0e60993a864972ceb2f9d1b6c28a395',1,'MainMenu']]],
+  ['getticks',['getTicks',['../class_l_timer.html#a57c4bdca0f7bdd75c65b6ab1499de1e7',1,'LTimer']]],
+  ['getwidth',['getWidth',['../class_l_texture.html#a542c1f81d98fd5659a04eb394d61a879',1,'LTexture']]]
+];

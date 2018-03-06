@@ -1,0 +1,22 @@
+Lives:
+Level:
+Score:
+You Win
+You loose
+Game over
+Developed by: Prem Shah, Shubham Sharma, Chandan Shankarappa
+Music used from https://www.bensound.com, a site with a collection of good music that is also free to use.
+The sprite pack for the game was developed by Unlucky Studio (http://unluckystudio.com/).
+The texts were generated as logos using Flaming Text (http://www4.flamingtext.com/).
+Special thanks to Dr. Michael. P. Shah for his guidance and letting us build this as part of his course.
+Select(press enter) 'START' to start the game. 
+Use left and right arrow to move the paddle.
+Select position and press space-bar to shoot the ball.
+Complete the levels to beat the game.
+You have 3 lives at your disposal. 
+When the ball hits the floor, you lose a life.
+Dont let the ball hit the floor, use the paddle to save it. 
+Oh, I almost forgot, once you start the game, there is no escape!!! JK, hit 'q' to quit.
+
+
+

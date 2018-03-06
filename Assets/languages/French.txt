@@ -1,0 +1,19 @@
+Vies:
+Niveau:
+But:
+Vous gagnez
+Vous perdez
+Jeu terminé
+Développé par: Prem Shah, Shubham Sharma, Chandan Shankarappa
+Musique utilisée à partir de https://www.bensound.com, un site avec une collection de bonne musique qui est également libre d'utiliser.
+Le pack de sprites pour le jeu a été développé par Unlucky Studio (http://unluckystudio.com/).
+Les textes ont été générés en tant que logos en utilisant Flaming Text (http://www4.flamingtext.com/).
+Un merci spécial au Dr Michael. P. Shah pour ses conseils et nous a laissé construire cela dans le cadre de son cours.
+Sélectionnez (appuyez sur Entrée) 'START' pour démarrer la partie.
+Utilisez les flèches gauche et droite pour déplacer la palette.
+Sélectionnez la position et appuyez sur la barre d'espace pour tirer la balle.
+Terminez les niveaux pour battre le jeu.
+Vous avez 3 vies à votre disposition.
+Lorsque la balle frappe le sol, vous perdez une vie.
+Ne laissez pas la balle frapper le sol, utilisez la pagaie pour le sauver.
+Oh, j'ai presque oublié, une fois que vous commencez le jeu, il n'y a pas d'échappatoire !!! JK, appuyez sur 'q' pour quitter.
