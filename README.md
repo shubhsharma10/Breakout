@@ -11,13 +11,14 @@
    https://youtu.be/yYMY9JZzALk
 
 ## Executable application link
-   https://goo.gl/3VVntY
+   - https://goo.gl/3VVntY OR
+   - Can be found under Game directory 
 
 ## Source code repo
-    https://github.com/shubhsharma10/breakout
+   - https://github.com/shubhsharma10/breakout
 
 ## Webpage
-    http://game-engine-breakout.herokuapp.com
+   - http://game-engine-breakout.herokuapp.com
 
 ## Instructions for running visual studio application
    - Pull repo from link provided above 
