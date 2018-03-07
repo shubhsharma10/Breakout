@@ -1,7 +1,8 @@
 \mainpage
 
 ## Breakout Game
- Breakout game 
+ Breakout game with multi level support which are read from a config file and supports both English and French language.
+ Implemented using SDL2 library in Visual Studio 2017 Community edition.
 
 ## Requirements
     - Windows 10 x64 system
